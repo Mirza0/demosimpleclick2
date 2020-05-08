@@ -1,0 +1,2 @@
+rootProject.name='demosimpleclick2'
+include ':app'
